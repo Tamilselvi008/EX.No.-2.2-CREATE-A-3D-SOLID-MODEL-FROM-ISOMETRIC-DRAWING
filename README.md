@@ -110,8 +110,6 @@ PROCEDURE:
 4. Save the design.
 <img width="1920" height="1014" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/0e8c484f-3f39-4131-bc20-fd218d19d488" />
 
-
-
 Input:
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
