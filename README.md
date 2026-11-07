@@ -34,7 +34,7 @@ PROCEDURE:
 9. Use **Sketch Dimension** to set the distance between the circle centres to **56 mm**, if that is what your 56 mm measurement refers to. If your drawing measures 56 mm between the straight tangent sections instead, dimension that distance accordingly.
 10. Check that the sketch shows one closed outer base profile and two circular inner profiles.
 11. Select **Finish Sketch**.
-12. <img width="1920" height="1008" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/2eeb25bc-224a-4a1e-b0fa-e7fd1abdbddc" />
+    <img width="1920" height="1008" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/2eeb25bc-224a-4a1e-b0fa-e7fd1abdbddc" />
 
 
 ### 3. Extrude the base
@@ -55,7 +55,7 @@ PROCEDURE:
 5. Make sure the rectangles touch or overlap where they meet so the extruded features can form one connected part.
 6. Use **Sketch Dimension** to set their widths, lengths, and positions according to your drawing.
 7. Select **Finish Sketch**.
-8. <img width="1920" height="1033" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/08dc2fa8-893f-475c-ad15-b8da25469c3f" />
+   <img width="1920" height="1033" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/08dc2fa8-893f-475c-ad15-b8da25469c3f" />
 
 
 ### 5. Extrude the upright and arm
@@ -66,7 +66,7 @@ PROCEDURE:
 4. Set the operation to **Join** so the new material attaches to the base.
 5. Select **OK**.
 6. Inspect the model to confirm the upright and arm are joined to the base.
-7. <img width="1920" height="1024" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/90e82918-72ff-47da-a6a2-a6989e997bd5" />
+ <img width="1920" height="1024" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/90e82918-72ff-47da-a6a2-a6989e997bd5" />
 
 
 ### 6. Add the front chamfer
@@ -77,7 +77,7 @@ PROCEDURE:
 4. Enter the two chamfer distances from your drawing.
 5. Check the preview to ensure the chamfer slopes in the intended direction and does not remove too much material.
 6. Select **OK**.
-7. <img width="1920" height="1004" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/3d9654ad-903e-407c-ab48-753c63a98645" />
+<img width="1920" height="1004" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/3d9654ad-903e-407c-ab48-753c63a98645" />
 
 
 ### 7. Sketch the top boss
@@ -89,7 +89,7 @@ PROCEDURE:
 5. Position the circles over the end of the arm as shown in the reference.
 6. If your sketch needs connecting geometry between the circular boss area and the T-shaped surface, use the **Line** tool to draw it. Keep the profile closed and avoid extra overlapping lines.
 7. Select **Finish Sketch**.
-8. <img width="1920" height="1019" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/aeb831c3-bb55-424c-b36c-3f1bc14f9d17" />
+   <img width="1920" height="1019" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/aeb831c3-bb55-424c-b36c-3f1bc14f9d17" />
 
 
 ### 8. Extrude the boss
@@ -99,7 +99,7 @@ PROCEDURE:
 3. Enter the boss height specified in your drawing.
 4. Set the operation to **Join**.
 5. Select **OK**. The 20 mm centre should remain open as the boss bore.
-6. <img width="1920" height="1002" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/fa2084c0-3ee3-4513-bd01-f80b41dd5160" />
+   <img width="1920" height="1002" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/fa2084c0-3ee3-4513-bd01-f80b41dd5160" />
 
 
 ### 9. Check and save the model
