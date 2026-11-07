@@ -29,12 +29,12 @@ PROCEDURE:
 6. Draw a concentric circle inside each outside circle and set each inner circle to **16 mm diameter**.
    <img width="1920" height="1004" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/cc55935d-ddde-4715-8b80-77ea6ec4dfb5" />
 
-8. Select **Create → Line** and draw the two straight tangent lines joining the outside circles, one along each side, to form the obround base outline.
-9. Use **Trim** to remove any overlapping or unwanted line segments so the outer boundary is closed and both inner holes remain separate profiles.
-10. Use **Sketch Dimension** to set the distance between the circle centres to **56 mm**, if that is what your 56 mm measurement refers to. If your drawing measures 56 mm between the straight tangent sections instead, dimension that distance accordingly.
-11. Check that the sketch shows one closed outer base profile and two circular inner profiles.
-12. Select **Finish Sketch**.
-13. <img width="1920" height="1008" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/2eeb25bc-224a-4a1e-b0fa-e7fd1abdbddc" />
+7. Select **Create → Line** and draw the two straight tangent lines joining the outside circles, one along each side, to form the obround base outline.
+8. Use **Trim** to remove any overlapping or unwanted line segments so the outer boundary is closed and both inner holes remain separate profiles.
+9. Use **Sketch Dimension** to set the distance between the circle centres to **56 mm**, if that is what your 56 mm measurement refers to. If your drawing measures 56 mm between the straight tangent sections instead, dimension that distance accordingly.
+10. Check that the sketch shows one closed outer base profile and two circular inner profiles.
+11. Select **Finish Sketch**.
+12. <img width="1920" height="1008" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/2eeb25bc-224a-4a1e-b0fa-e7fd1abdbddc" />
 
 
 ### 3. Extrude the base
