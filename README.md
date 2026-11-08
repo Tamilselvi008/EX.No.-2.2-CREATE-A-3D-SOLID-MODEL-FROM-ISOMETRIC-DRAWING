@@ -57,7 +57,6 @@ PROCEDURE:
 7. Select **Finish Sketch**.
    <img width="1920" height="1033" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/08dc2fa8-893f-475c-ad15-b8da25469c3f" />
 
-
 ### 5. Extrude the upright and arm
 
 1. Select the rectangular profile or profiles for the support and arm.
@@ -68,7 +67,6 @@ PROCEDURE:
 6. Inspect the model to confirm the upright and arm are joined to the base.
  <img width="1920" height="1024" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/90e82918-72ff-47da-a6a2-a6989e997bd5" />
 
-
 ### 6. Add the front chamfer
 
 1. Choose **Modify → Chamfer**.
@@ -78,7 +76,6 @@ PROCEDURE:
 5. Check the preview to ensure the chamfer slopes in the intended direction and does not remove too much material.
 6. Select **OK**.
 <img width="1920" height="1004" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/3d9654ad-903e-407c-ab48-753c63a98645" />
-
 
 ### 7. Sketch the top boss
 
@@ -91,7 +88,6 @@ PROCEDURE:
 7. Select **Finish Sketch**.
    <img width="1920" height="1019" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/aeb831c3-bb55-424c-b36c-3f1bc14f9d17" />
 
-
 ### 8. Extrude the boss
 
 1. Select the ring-shaped profile between the 30 mm and 20 mm circles.
@@ -100,7 +96,6 @@ PROCEDURE:
 4. Set the operation to **Join**.
 5. Select **OK**. The 20 mm centre should remain open as the boss bore.
    <img width="1920" height="1002" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/fa2084c0-3ee3-4513-bd01-f80b41dd5160" />
-
 
 ### 9. Check and save the model
 
